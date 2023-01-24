@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "tc-cli start",
+    "build": "tc-cli build"
+  },
+  "dependencies": {
+    "tc-utilities": "https://github.com/tc-template-org/tc-utilities.git"
+  },
+  "devDependencies": {
+    "tc-cli": "https://github.com/tc-template-org/tc-cli.git"
+  }
+}
